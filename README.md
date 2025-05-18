@@ -92,19 +92,6 @@ This API manages a list of tasks using MongoDB as the database and Express as th
 
 ---
 
-## 🧪 Sample Response
-
-```json
-{
-  "_id": "662bb7fe1b2c7f3456c1a7e4",
-  "task": "Finish OS Task ",
-  "done": false,
-  "__v": 0
-}
-```
-
----
-
 ## 📦 Technologies Used
 
 * Node.js
