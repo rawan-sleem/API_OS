@@ -1,0 +1,16 @@
+{
+  "name": "os-project-todo-api-main",
+  "version": "1.0.0",
+  "description": "A simple RESTful To-Do List API built using **Node.js**, **Express**, and **MongoDB**. This project allows users to create, view, update, and delete tasks from a to-do list.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0"
+  }
+}
